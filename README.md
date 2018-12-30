@@ -2,5 +2,4 @@
  
  
  
- 
  <img src="https://github.com/subahanii/KNIT-s-Smart-Library-Systemm/blob/master/tf.gif" height="300" width="300" />
