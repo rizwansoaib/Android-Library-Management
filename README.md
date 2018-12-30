@@ -31,7 +31,7 @@ Android Library Management System is an android app which helps to manage librar
     - 🍴 Fork this repo!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/rizwansoaib/Android-Library-Management`
+    - 👯 Clone this repo to your local machine using `https://github.com/rizwansoaib/Android-Library-Management.git`
 
 ### Step 2
 
