@@ -2,5 +2,4 @@
  
  # ANDROID LIBRARY MANAGEMENT SYSTEM 
  
- <img src="![tf](https://user-images.githubusercontent.com/29729380/50545488-4dd63b00-0c3b-11e9-82cc-c671f1e070b8.gif)" height="300" width="300" />
-
+ ![tf](https://user-images.githubusercontent.com/29729380/50545488-4dd63b00-0c3b-11e9-82cc-c671f1e070b8.gif)
