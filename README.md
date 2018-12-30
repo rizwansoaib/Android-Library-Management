@@ -24,8 +24,30 @@ Android Library Management System is an android app which helps to manage librar
 
 ## Contributing 
 
-[GHULAM MOHIYUDDIN](https://github.com/subahanii)
 
-[RIZWAN AHMAD](https://github.com/rizwansoaib)
+### Step 1
+
+- **Option 1**
+    - 🍴 Fork this repo!
+
+- **Option 2**
+    - 👯 Clone this repo to your local machine using `https://github.com/rizwansoaib/`
+
+### Step 2
+
+- **HACK AWAY!** 🔨🔨🔨
+
+### Step 3
+
+- 🔃 Create a new pull request using <a href="https://github.com/rizwansoaib/als/compare/" target="_blank">`https://github.com/rizwansoaib/als/compare/`</a>.
+
+## Team
 
 
+
+
+
+| <a href="https://github.com/rizwansoaib" target="_blank">**RIZWAN AHMAD**</a> | <a href="https://github.com/subahanii" target="_blank">**GHULAM MOHIYUDDIN**</a> |
+| :---: |:---:| 
+| [![RIZWAN AHMAD](https://avatars1.githubusercontent.com/u/29729380?s=200&v=4)](https://github.com/rizwansoaib)    | [![GHULAM MOHIYUDDIN](https://avatars1.githubusercontent.com/u/23014491?s=200&v=4)](https://github.com/subahanii) | 
+| <a href="https://github.com/rizwansoaib" target="_blank">`github.com/rizwansoaib`</a> | <a href="https://github.com/subahanii" target="_blank">`github.com/subahanii`</a> | 
