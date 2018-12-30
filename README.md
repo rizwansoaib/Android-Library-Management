@@ -10,6 +10,8 @@ Android Library Management System is an android app which helps to manage librar
 
 ## Installation
 
+### [Click Here To Download APK](https://github.com/rizwansoaib/Android-Library-Management/raw/master/LMS.apk)
+
 ## Features
 
 1. Login and Sign up
