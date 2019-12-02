@@ -1,5 +1,5 @@
  [![Download Apk](https://images.microbadger.com/badges/version/runmymind/docker-android-sdk.svg)](https://github.com/rizwansoaib/Android-Library-Management/raw/master/LMS.apk "Download APK now") [![Build Status](https://semaphoreapp.com/api/v1/projects/d4cca506-99be-44d2-b19e-176f36ec8cf1/128505/badge.svg)](https://github.com/rizwansoaib/Android-Library-Management)  [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![star this repo](http://githubbadges.com/star.svg?user=rizwansoaib&repo=Android-Library-Management)](https://github.com/rizwansoaib/Android-Library-Management)
-[![fork this repo](http://githubbadges.com/fork.svg?user=rizwansoaib&repo=Android-Library-Management)](http://github.com/rizwansoaib/Android-Library-Management/fork)
+[![fork this repo](http://githubbadges.com/fork.svg?user=rizwansoaib&repo=Android-Library-Management)](http://github.com/rizwansoaib/Android-Library-Management/fork) [![HitCount](http://hits.dwyl.io/rizwansoaib/Android-Library-Management.svg)](http://hits.dwyl.io/rizwansoaib/Android-Library-Management)
  
  # ANDROID LIBRARY MANAGEMENT SYSTEM 
  
